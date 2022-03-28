@@ -9,16 +9,27 @@ MIUI系统广告与自带APP广告拦截
 隐私政策链接：https://ts.market.mi-img.com/download/MifiMp/0ae0c0efa08894bda87f07c22480aec4f3a17208b/agreement.html
 
 ||m.jr.mi.com^$important
+
 ||account.xiaomi.com^$important
+
 ||sentry.d.xiaomi.net^$important
+
 ||api.account.xiaomi.com^$important
+
 ||fundres.mipay.com^$important
+
 ||api.jr.mi.com^$important
+
 ||t1.market.xiaomi.com^$important
+
 ||data.help.jr.mi.com^$important
+
 ||restapi.amap.com^$important
+
 ||webapi.amap.com^$important
+
 ||help.jr.mi.com^$important
+
 
 #### 第三方数据共享
 ##### 米家App第三方数据共享说明
